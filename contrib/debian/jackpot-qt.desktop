@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=xczm 
+Comment=xczm P2P Cryptocurrency
+Comment[fr]=xczm, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=xczm, eşten eşe kriptografik sanal para birimi
+Exec=xczm-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/xczm;
+Categories=Office;Finance;
+StartupWMClass=xczm-qt
