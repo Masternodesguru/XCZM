@@ -4,8 +4,28 @@ MN-Saving program winner - chain is not active-> manual swap to a newer versio <
 <p>
 
 (You can buy xczm from exchange for collateral) <br>
-<br>  coming soon <br>
+<br>  [Cratex](https://cratex.io/darkhak.php?pair=XCZM/CRATX) <br>
 
+Website: 
+```bash
+https://masternodes.guru/xczm
+```
+Twitter: 
+```bash
+https://twitter.com/xczmcoin
+```
+Telegram: 
+```bash
+https://t.me/xczmofficial
+```
+Discord: 
+```bash
+https://discord.gg/AZutNFRKYy
+```
+Explorer: 
+```bash
+ http://161.97.170.67:3004/
+```
 
 <h2><strong>Specification:</strong></h2>
 <table>
